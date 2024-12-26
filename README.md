@@ -1,4 +1,4 @@
-# 大規模時系列文書における共通・非共通トピックとその時系列推移の同時抽出手法の提案
+# 大規模時系列文書における共通・非共通トピックとその時系列推移の同時抽出
 - 大規模な時系列情報付きの文書集合から共通・非共通トピックとそのトレンドの時間推移を同時に抽出するアプリです．　　
 - Joint Nonnegative Tensor Factrization(Joint-NTF)というアルゴリズムを提案しています．　　
 - アルゴリズムの詳細説明は[Joint Non-negative Tensor Factorizationに基づく共通・非共通トピックとその時間推移の抽出](https://proceedings-of-deim.github.io/DEIM2022/papers/D23-3.pdf)を参照してください．
